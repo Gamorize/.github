@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Gamorize/.github/raw/refs/heads/main/Gamorize%20Studios.svg" alt="Gamorize Studios Logo">
+  <img src="https://github.com/Gamorize/.github/blob/main/Gamorize-3.png" alt="Gamorize Studios Logo">
 </p>
 
 <p align="center">
